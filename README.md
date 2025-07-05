@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sanket2004-b/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sanket2004-b/LEETCODE/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
 ## Array
 |  |
@@ -35,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sanket2004-b/LEETCODE/tree/master/0242-valid-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanket2004-b/LEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
