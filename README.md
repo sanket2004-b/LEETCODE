@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sanket2004-b/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
+## Array
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
