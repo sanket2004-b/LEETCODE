@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanket2004-b/LEETCODE/tree/master/0050-powx-n) |
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanket2004-b/LEETCODE/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
