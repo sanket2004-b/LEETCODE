@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/sanket2004-b/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
