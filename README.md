@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sanket2004-b/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/sanket2004-b/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanket2004-b/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sanket2004-b/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1511-count-number-of-teams](https://github.com/sanket2004-b/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## Linked List
