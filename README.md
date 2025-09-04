@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sanket2004-b/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sanket2004-b/LEETCODE/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/sanket2004-b/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/sanket2004-b/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/sanket2004-b/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/sanket2004-b/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [1511-count-number-of-teams](https://github.com/sanket2004-b/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## Linked List
 |  |
