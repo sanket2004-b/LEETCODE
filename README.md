@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0039-combination-sum) |
 | [0118-pascals-triangle](https://github.com/sanket2004-b/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/sanket2004-b/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/sanket2004-b/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
