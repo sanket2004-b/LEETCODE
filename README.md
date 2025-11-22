@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sanket2004-b/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanket2004-b/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/sanket2004-b/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1137-height-checker](https://github.com/sanket2004-b/LEETCODE/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
