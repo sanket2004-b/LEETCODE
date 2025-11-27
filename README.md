@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanket2004-b/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sanket2004-b/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanket2004-b/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/sanket2004-b/LEETCODE/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanket2004-b/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sanket2004-b/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sanket2004-b/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanket2004-b/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanket2004-b/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
