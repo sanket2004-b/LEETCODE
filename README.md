@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sanket2004-b/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/sanket2004-b/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sanket2004-b/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/sanket2004-b/LEETCODE/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sanket2004-b/LEETCODE/tree/master/0179-largest-number) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Database
 |  |
 | ------- |
