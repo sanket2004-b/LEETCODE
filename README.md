@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sanket2004-b/LEETCODE/tree/master/0050-powx-n) |
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sanket2004-b/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sanket2004-b/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3270-find-the-key-of-the-numbers](https://github.com/sanket2004-b/LEETCODE/tree/master/3270-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/sanket2004-b/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sanket2004-b/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
@@ -68,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2427-first-letter-to-appear-twice](https://github.com/sanket2004-b/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sanket2004-b/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanket2004-b/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanket2004-b/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/sanket2004-b/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sanket2004-b/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
 | ------- |
