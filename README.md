@@ -112,18 +112,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket2004-b/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket2004-b/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/sanket2004-b/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket2004-b/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket2004-b/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/sanket2004-b/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket2004-b/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket2004-b/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/sanket2004-b/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket2004-b/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0965-univalued-binary-tree](https://github.com/sanket2004-b/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
