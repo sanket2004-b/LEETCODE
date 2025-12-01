@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanket2004-b/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanket2004-b/LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sanket2004-b/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanket2004-b/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sanket2004-b/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanket2004-b/LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sanket2004-b/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2951-find-the-peaks](https://github.com/sanket2004-b/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/sanket2004-b/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sanket2004-b/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanket2004-b/LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sanket2004-b/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Counting
 |  |
 | ------- |
