@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sanket2004-b/LEETCODE/tree/master/0050-powx-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sanket2004-b/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sanket2004-b/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/sanket2004-b/LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sanket2004-b/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0917-reverse-only-letters](https://github.com/sanket2004-b/LEETCODE/tree/master/0917-reverse-only-letters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sanket2004-b/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sanket2004-b/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
