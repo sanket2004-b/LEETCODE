@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanket2004-b/LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sanket2004-b/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sanket2004-b/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/sanket2004-b/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2951-find-the-peaks](https://github.com/sanket2004-b/LEETCODE/tree/master/2951-find-the-peaks) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/sanket2004-b/LEETCODE/tree/master/2951-find-the-peaks) |
+## Matrix
+|  |
+| ------- |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sanket2004-b/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 <!---LeetCode Topics End-->
