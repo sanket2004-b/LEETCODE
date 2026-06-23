@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/sanket2004-b/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/sanket2004-b/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
 ## Backtracking
 |  |
